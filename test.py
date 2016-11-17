@@ -57,3 +57,5 @@ print(liste.index(17))
 liste.remove(38)
 print(liste)
 
+
+
